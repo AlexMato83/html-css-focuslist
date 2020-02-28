@@ -3,20 +3,25 @@
   padding:0;
   box-sizing: border-box;
 }
-/* inizio QUERY rid. blocchi PRIMA sezione */
+/* inizio QUERY ridimensionamento.MD blocchi PRIMA sezione */
 @media screen and (min-width:769px) and (max-width:992px) {
   .prima_blocchi {
 
   }
 }
-/* fine QUERY rid. blocchi PRIMA sezione --*/
-/* inizio QUERY rid. blocchi TERZA sezione */
+/* fine QUERY ridimensionamento.MD blocchi PRIMA sezione --*/
+/* inizio QUERY ridimensionamento.MD blocchi TERZA sezione */
 @media screen and (min-width:769px) and (max-width:992px){
   .terza_blocchi {
 
   }
 }
-/* fine QUERY rid. blocchi TERZA sezione --*/
+/* fine QUERY ridimensionamento.MD blocchi TERZA sezione --*/
+/* inizio QUERY ridimensionamento.XS blocchi QUARTA sezione */
+@media screen and (max-width:768px){
+  
+}
+/* fine QUERY ridimensionamento.XS blocchi QUARTA sezione */
 
 /* DEBUg -- */
 [class*="col-"] {
